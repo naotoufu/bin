@@ -1,7 +1,7 @@
 #!/bin/sh
 
 case "$OSTYPE" in
-    Darwin)
+    darwin*)
    
 # OS X Binary Vanilla builds
 /Applications/Emacs.app/Contents/MacOS/Emacs "$@"
