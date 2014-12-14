@@ -1,6 +1,6 @@
 #!/bin/sh
 
-case "OSTYPE" in
+case "$OSTYPE" in
     Darwin)
    
 # OS X Binary Vanilla builds
