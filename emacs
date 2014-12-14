@@ -2,7 +2,7 @@
 
 case "$OSTYPE" in
     darwin*)
-   
+
 # OS X Binary Vanilla builds
 /Applications/Emacs.app/Contents/MacOS/Emacs "$@"
 
